@@ -1,4 +1,4 @@
-# Wave Race 64 VR (Meta Quest 3)
+# Wave Runner 64 VR (Meta Quest 3)
 
 ![Wave Race 64 VR](banner.webp)
 
