@@ -6,7 +6,7 @@ Unofficial fan port of Wave Race 64 to Meta Quest 3, running standalone on the h
 
 - Look around with your head; the world stays still
 - Chase camera or first person (click the right stick)
-- Sharp picture (20 fps) or smooth motion (40 fps), chosen at start
+- Sharp picture (20 fps) or smooth motion (60 fps), chosen at start
 - Rumble on the Touch controllers
 
 ## Install
