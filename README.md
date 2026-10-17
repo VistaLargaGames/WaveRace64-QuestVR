@@ -6,9 +6,16 @@ Unofficial fan port of Wave Race 64 to Meta Quest 3, running standalone on the h
 
 - Look around with your head; the world stays still
 - Chase camera or first person (click the right stick)
-- Sharp picture (20 fps) or smooth motion (60 fps), chosen at start
+- Smooth 60 fps with anti-aliasing
 - Rumble on the Touch controllers
 - Online 2-player races, Quest to Quest, each player full screen
+- HD textures: title logo, HUD lettering, signs, jet skis and courses
+- HUD on a board in front of you that stays put as you look around
+
+## Screenshots
+![Racing](screenshots/race.jpg)
+![Title screen](screenshots/title.jpg)
+![Main menu](screenshots/menu.jpg)
 
 ## Install
 1. Download the APK from [Releases](https://github.com/VistaLargaGames/WaveRace64-QuestVR/releases/latest).
@@ -38,4 +45,5 @@ Right grip slide · Left grip Z · Menu button Start · Right stick click first 
 
 ## Credits
 Built on Wave Race 64: Recompiled, N64Recomp and RT64 (MIT licensed).
+HD texture pack "nano-banana-2" by Brian Tate (github.com/elliotttate/wave-race-64-recomp); its images adapt Nintendo's original artwork.
 Not affiliated with Nintendo, Meta or Kawasaki.
